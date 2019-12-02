@@ -72,7 +72,8 @@ In addition to this algorithm, Growlr also uses the Petfinder API's filtering qu
  1. Copy and Paste the contents of the [GrowlrDatabaseFinal.txt](https://github.com/cynthiasidlauskas/Growlr/blob/master/GrowlrDatabaseFinal.txt "GrowlrDatabaseFinal.txt") file to your Microsoft SQL Server Management Studio. 
  2. Execute the data. 
  3. In properties, Copy the connection string. 
- 4. Paste your connection string into the Web.Config file, in the appropriate place within the connectionString angular brackets.
+ 4. Download everything that has the  "Final Project Commit ---- Need Database to operate" comment and open in Visual Studio or your favorite code editor. 
+ 5. Paste your connection string into the Web.Config file, in the appropriate place within the connectionString angular brackets.
 
 ## Video Demo
 Click this [link](https://photos.app.goo.gl/C935FMfwwiMZ8u9Z6) to view a view a video demonstration of Growlr! 
