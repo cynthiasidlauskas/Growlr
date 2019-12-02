@@ -31,6 +31,8 @@ Crafting the sign.
 
 ![enter image description here](https://lh3.googleusercontent.com/KTicHuwZTRYqzJTDkea71wUIsvyIKuh5Wm5n2JS0erS_vp3UxYG0UU84jshtdF-b1r0ca47vubDUhw)
 
+Adding some flair.
+
 ![enter image description here](https://lh3.googleusercontent.com/l-IkVZjcV5LOAd-wvJFxoUF-Y9mgfWBc4BnyUsrGz-xJB1YoTchXQ-VEPVHsNqQc2UfPy8GASc8Rpw)
 
 Finally, the screen was added, some dog accessories and a key pad for the user to enter in their zip code. 
