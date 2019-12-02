@@ -35,7 +35,7 @@ Adding some flair.
 
 ![enter image description here](https://lh3.googleusercontent.com/l-IkVZjcV5LOAd-wvJFxoUF-Y9mgfWBc4BnyUsrGz-xJB1YoTchXQ-VEPVHsNqQc2UfPy8GASc8Rpw)
 
-Finally, the screen was added, some dog accessories and a key pad for the user to enter in their zip code. 
+Finally, the screen, some dog accessories and a key pad for the user to enter in their zip code, was added to the kiosk. 
 
 
 ![enter image description here](https://lh3.googleusercontent.com/na3Mt_lTYeyWrcQNRpEfNKjBC3LWhxrbV8UGaaz0-Vo0OOxh5wY6noYcLA6vBihemfz9CKdck3FnQQ)
