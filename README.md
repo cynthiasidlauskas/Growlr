@@ -31,11 +31,9 @@ Crafting the sign.
 
 ![enter image description here](https://lh3.googleusercontent.com/KTicHuwZTRYqzJTDkea71wUIsvyIKuh5Wm5n2JS0erS_vp3UxYG0UU84jshtdF-b1r0ca47vubDUhw)
 
-Adding some flair.
-
 ![enter image description here](https://lh3.googleusercontent.com/l-IkVZjcV5LOAd-wvJFxoUF-Y9mgfWBc4BnyUsrGz-xJB1YoTchXQ-VEPVHsNqQc2UfPy8GASc8Rpw)
 
-Finally, the screen, some dog accessories and a key pad for the user to enter in their zip code, was added to the kiosk. 
+Finally, the screen was added, some dog accessories and a key pad for the user to enter in their zip code. 
 
 
 ![enter image description here](https://lh3.googleusercontent.com/na3Mt_lTYeyWrcQNRpEfNKjBC3LWhxrbV8UGaaz0-Vo0OOxh5wY6noYcLA6vBihemfz9CKdck3FnQQ)
@@ -68,6 +66,14 @@ This is currently in beginning stages and has a "walk up and find your match" in
 ![enter image description here](https://lh3.googleusercontent.com/wBewvKI94zKFidNWER8dr3bXZcSMv2avGr_-b4hWu6VCPDiRQqeqtL-xIdhHieftiL7FhhRtPIryQw)
 
 In addition to this algorithm, Growlr also uses the Petfinder API's filtering queries. If you have children, cats or dog, Growlr will only show you adoptable dogs that are recorded as being good with children, cats or dogs.
+
+## Connecting to Growlr
+
+ 1. Copy and Paste the contents of the [GrowlrDatabaseFinal.txt](https://github.com/cynthiasidlauskas/Growlr/blob/master/GrowlrDatabaseFinal.txt "GrowlrDatabaseFinal.txt") file to your Microsoft SQL Server Management Studio. 
+ 2. Execute the data. 
+ 3. In properties, Copy the connection string. 
+ 4. Paste your connection string into the Web.Config file, in the appropriate place within the connectionString angular brackets.
+
 ## Video Demo
 Click this [link](https://photos.app.goo.gl/C935FMfwwiMZ8u9Z6) to view a view a video demonstration of Growlr! 
 
