@@ -1,4 +1,6 @@
-# Growlr
+![enter image description here](https://lh3.googleusercontent.com/Sbd5pJ7j1LT7rzuA_d_WiiLKfBRg6EjcJ2vSPD_nq2_7rl1YD6YH0yu2CedUkLz7O8RnVExgTb1fiA)
+
+# Purpose
 Countless dogs are returned to shelters everyday--usually due to contradicting personalities. For example: The Siberian husky is one of the most re-homed dogs because people often don't realize how energetic they are, and how often their required to be walked. 
 When a dog is rehomed, this can effect their mental heath, which can cause behavioral issues, like separation anxiety. 
 
